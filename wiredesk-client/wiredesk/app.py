@@ -1,5 +1,2 @@
-def main(self):
+def staff(self):
     ...
-
-if __name__ == "__main__":
-    main()
